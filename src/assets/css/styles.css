@@ -1,0 +1,31 @@
+/* ---------------------------------------------------
+    CONTENT STYLE
+----------------------------------------------------- */
+
+.container-fluid {
+  background-color: #f5f6f8;
+}
+
+#main {
+  .page-content {
+    width: calc(100% - 19rem);
+    margin-left: 19rem;
+    transition: all 0.4s;
+    margin-top: 69px;
+    background-color: #f5f6f8;
+  }
+
+  .page-content .page-content-inner {
+    background-color: #fff;
+    margin: 15px 0 0 0;
+    padding: 15px;
+
+    h2.subtitulo-itens-painel {
+      font-size: 14px;
+    }
+  }
+}
+
+
+
+  

@@ -1,0 +1,25 @@
+.img-home-bg {
+    background: url("../../assets/img/home.jpg");
+    width: 65%;
+    position: absolute;
+    height: 100%;
+    left: 0;
+    object-fit: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.img-banner {
+    background: url("../../assets/img/home.jpg");
+    width: 90%;
+    /* position: absolute; */
+    /* position: relative; */
+    /* position: fixed; */
+    height: 50%;
+    left: 0;
+    object-fit: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
